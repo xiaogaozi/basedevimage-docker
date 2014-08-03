@@ -2,6 +2,9 @@
 
 Docker image build on top of [phusion/baseimage](https://github.com/phusion/baseimage-docker)
 
+Docker registry link:
+[https://hub.docker.com/u/xiaogaozi/basedevimage](https://hub.docker.com/u/xiaogaozi/basedevimage)
+
 ## What's included?
 
 - All [phusion/baseimage](https://github.com/phusion/baseimage-docker)
